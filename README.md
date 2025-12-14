@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cristiano-Popowicz
 - 👀 I'm interested in improving myself as a developer
-- 🌱 I'm currently developing in React Native
+- 🌱 I'm currently developing in Python and ReactJS
 - 💞️ I'm looking to collaborate on new projects
 - 📫 How to reach me crispopowicz@gmail.com or https://www.linkedin.com/in/cristiano-popowicz-5a15bb119
 
